@@ -1,3 +1,5 @@
+package lab2sp;
+
 import java.util.ArrayList;
 import java.util.List;
 

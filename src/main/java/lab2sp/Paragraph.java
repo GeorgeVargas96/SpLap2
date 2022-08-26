@@ -1,4 +1,6 @@
-public class Paragraph {
+package lab2sp;
+
+public class Paragraph implements Element {
 
     private String text;
 

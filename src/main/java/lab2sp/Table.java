@@ -1,4 +1,6 @@
-public class Table {
+package lab2sp;
+
+public class Table implements Element {
 
     private String tbl;
 
